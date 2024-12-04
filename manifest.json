@@ -1,6 +1,6 @@
 {
-    "name": "Minha PWA",
-    "short_name": "MinhaPWA",
+    "name": "Minha calculadora Alana",
+    "short_name": "MinhaCalculadoraAlana",
     "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#ffffff",
