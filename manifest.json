@@ -1,5 +1,5 @@
 {
-    "name": "Minha calculadora Alana",
+    "name": "Minha Calculadora Alana",
     "short_name": "MinhaCalculadoraAlana",
     "start_url": "./index.html",
     "display": "standalone",
