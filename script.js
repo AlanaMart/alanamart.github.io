@@ -83,8 +83,3 @@ function exibirHistorico() {
 window.onload = function() {
     exibirHistorico();
 };
-            break;
-    }
-
-    resultado.innerHTML = 'O resultado é: ' + res;
-}
